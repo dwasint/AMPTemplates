@@ -1,0 +1,30 @@
+[
+    {
+        "Protocol": "Both",
+        "Port": "27015",
+        "Name": "RCON",
+        "Description": "game transmission, pings and RCON",
+        "Ref": "RCON"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "27020",
+        "Name": "RCON",
+        "Description": "SourceTV transmission",
+        "Ref": "RCON"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "27005",
+        "Name": "Main Game Port",
+        "Description": "Client Port",
+        "Ref": "MainGamePort"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "26900",
+        "Name": "Steam Query Port",
+        "Description": "Steam Port, outgoing",
+        "Ref": "SteamQueryPort"
+    }
+]

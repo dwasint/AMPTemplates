@@ -1,0 +1,12 @@
+[
+    {
+        "ConfigFile": "jbep3/cfg/server.cfg",
+        "ConfigType": "json",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "cfg/server.cfg",
+        "ConfigType": "json",
+        "AutoMap": false
+    }
+]
